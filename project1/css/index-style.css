@@ -1,0 +1,19 @@
+body {
+	background: powderblue;
+	color: black;
+}
+a {
+	display: block;
+	width: 70px;
+	margin: auto; 
+}
+a:link, a:visited, a:active {
+	color: red;
+}
+a:hover {
+	font-size:150%;
+	background: ble;
+	font-family:monospace;
+	color: black;
+	text-decoration:none;
+}
